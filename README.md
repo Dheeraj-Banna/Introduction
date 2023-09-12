@@ -4,6 +4,6 @@ extracting insights from large datasets, interpreting results, providing recomme
 Power BI and Tableau, Excel and has strong experience in Python, R, SQL, Google Analytics and Project Management and
 has strong leadership skills with good written, and verbal communication skills.
 
-![My Image]([linkedin.jpg]
+![My Image](linkedin.jpg)
 
 [My Github](https://github.com/Dheeraj-Banna)
