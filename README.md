@@ -6,4 +6,4 @@ has strong leadership skills with good written, and verbal communication skills.
 
 ![My Image](linkedin.jpg)
 
-[My Github](https://github.com/Dheeraj-Banna)
+[Link to my GITHUB](https://github.com/Dheeraj-Banna)
